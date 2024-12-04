@@ -5,10 +5,10 @@ Bienvenue sur **Blagues-Carambar**, une landing page interactive permettant de d
 ---
 
 ## 📦 Technologies utilisées
-**Frontend** : React, CSS Modules
-**Backend** : Node.js, Express, MongoDB
-**Documentation API** : Swagger
-**Déploiement** : GitHub Pages (Frontend), Render (Backend)
+- **Frontend** : React, CSS Modules
+- **Backend** : Node.js, Express, MongoDB
+- **Documentation API** : Swagger
+- **Déploiement** : GitHub Pages (Frontend), Render (Backend)
 
 ---
 
@@ -23,6 +23,17 @@ L'application est déployée sur GitHub Pages : [Blagues-Carambar](https://Heymo
 - **Landing page moderne** : Design respectant la charte graphique Carambar.
 - **Affichage aléatoire de blagues** : Récupération via une API dédiée.
 - **Responsivité** : Compatible avec tous les appareils (desktop, tablette, mobile).
+
+---
+
+# 🌐 API
+
+## Backend
+L'API utilisée pour les blagues est déployée sur Render.
+
+- URL de l'API : https://carambar-backend.onrender.com
+- Documentation Swagger : https://carambar-backend.onrender.com/api-docs
+- Repo GitHub de l'API : [Carambar Backend](https://github.com/Heymow/carambar-backend)
 
 ---
 
@@ -44,17 +55,6 @@ L'application est déployée sur GitHub Pages : [Blagues-Carambar](https://Heymo
     yarn start
 
 4. L'application sera disponible sur http://localhost:3000.
-
----
-
-# 🌐 API
-
-## Backend
-L'API utilisée pour les blagues est déployée sur Render.
-
-- URL de l'API : https://carambar-backend.onrender.com
-- Documentation Swagger : https://carambar-backend.onrender.com/api-docs
-- Repo GitHub de l'API : [Carambar Backend](https://github.com/Heymow/carambar-backend)
 
 ---
 
