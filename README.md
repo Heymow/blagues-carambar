@@ -43,6 +43,6 @@ L'application est déployée sur GitHub Pages : [Blagues-Carambar](https://Heymo
 # Backend
 L'API utilisée pour les blagues est déployée sur Render.
 
-URL de l'API : https://carambar-backend.onrender.com
-Documentation Swagger : https://carambar-backend.onrender.com/api-docs
-Repo GitHub de l'API : [Carambar Backend](https://github.com/Heymow/carambar-backend)
+- URL de l'API : https://carambar-backend.onrender.com
+- Documentation Swagger : https://carambar-backend.onrender.com/api-docs
+- Repo GitHub de l'API : [Carambar Backend](https://github.com/Heymow/carambar-backend)
