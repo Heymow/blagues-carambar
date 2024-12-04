@@ -4,6 +4,14 @@ Bienvenue sur **Blagues-Carambar**, une landing page interactive permettant de d
 
 ---
 
+## 📦 Technologies utilisées
+**Frontend** : React, CSS Modules
+**Backend** : Node.js, Express, MongoDB
+**Documentation API** : Swagger
+**Déploiement** : GitHub Pages (Frontend), Render (Backend)
+
+---
+
 ## 🚀 Démo en ligne
 
 L'application est déployée sur GitHub Pages : [Blagues-Carambar](https://Heymow.github.io/blagues-carambar)
@@ -37,12 +45,22 @@ L'application est déployée sur GitHub Pages : [Blagues-Carambar](https://Heymo
 
 4. L'application sera disponible sur http://localhost:3000.
 
+---
 
-## 🌐 Déploiement
+# 🌐 API
 
-# Backend
+## Backend
 L'API utilisée pour les blagues est déployée sur Render.
 
 - URL de l'API : https://carambar-backend.onrender.com
 - Documentation Swagger : https://carambar-backend.onrender.com/api-docs
 - Repo GitHub de l'API : [Carambar Backend](https://github.com/Heymow/carambar-backend)
+
+---
+
+## 🤝 Contribuer
+- Forkez le projet.
+- Créez une branche (git checkout -b feature/ma-nouvelle-fonctionnalite).
+- Committez vos modifications (git commit -m 'Ajout d’une nouvelle fonctionnalité').
+- Poussez vos commits (git push origin feature/ma-nouvelle-fonctionnalite).
+- Ouvrez une Pull Request.
