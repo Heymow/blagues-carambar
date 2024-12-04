@@ -1,5 +1,5 @@
 {
-  "name": "carambar-frontend",
+  "name": "blagues-carambar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
-  "homepage": "https://Heymow.github.io/carambar-frontend",
+  "homepage": "https://Heymow.github.io/blagues-carambar",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
