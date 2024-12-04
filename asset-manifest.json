@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/carambar-frontend/static/css/main.9abbb4c8.css",
-    "main.js": "/carambar-frontend/static/js/main.e238c4fa.js",
-    "index.html": "/carambar-frontend/index.html",
-    "main.9abbb4c8.css.map": "/carambar-frontend/static/css/main.9abbb4c8.css.map",
-    "main.e238c4fa.js.map": "/carambar-frontend/static/js/main.e238c4fa.js.map"
+    "main.css": "/blagues-carambar/static/css/main.9abbb4c8.css",
+    "main.js": "/blagues-carambar/static/js/main.d6a6a0fa.js",
+    "index.html": "/blagues-carambar/index.html",
+    "main.9abbb4c8.css.map": "/blagues-carambar/static/css/main.9abbb4c8.css.map",
+    "main.d6a6a0fa.js.map": "/blagues-carambar/static/js/main.d6a6a0fa.js.map"
   },
   "entrypoints": [
     "static/css/main.9abbb4c8.css",
-    "static/js/main.e238c4fa.js"
+    "static/js/main.d6a6a0fa.js"
   ]
 }
