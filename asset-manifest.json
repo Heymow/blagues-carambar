@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carambar-frontend/static/css/main.9abbb4c8.css",
+    "main.js": "/carambar-frontend/static/js/main.e238c4fa.js",
+    "index.html": "/carambar-frontend/index.html",
+    "main.9abbb4c8.css.map": "/carambar-frontend/static/css/main.9abbb4c8.css.map",
+    "main.e238c4fa.js.map": "/carambar-frontend/static/js/main.e238c4fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9abbb4c8.css",
+    "static/js/main.e238c4fa.js"
+  ]
+}
