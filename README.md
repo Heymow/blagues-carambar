@@ -6,7 +6,7 @@ Bienvenue sur **Blagues-Carambar**, une landing page interactive permettant de d
 
 ## 📦 Technologies utilisées
 - **Frontend** : React, CSS Modules
-- **Backend** : Node.js, Express, MongoDB
+- **Backend** : Node.js, Express, SQLite, Sequelize
 - **Documentation API** : Swagger
 - **Déploiement** : GitHub Pages (Frontend), Render (Backend)
 
