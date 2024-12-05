@@ -11,7 +11,6 @@ function App() {
   const fetchRandomJoke = async () => {
     setLoading(true);
     try {
-      console.log('API URL:', process.env.REACT_APP_BACKEND_URL);
       const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}/jokes/random`);
       const data = await response.json();
       setTimeout(() => setJoke(data.content), 300);
